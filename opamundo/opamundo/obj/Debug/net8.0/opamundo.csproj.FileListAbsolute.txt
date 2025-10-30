@@ -1,0 +1,14 @@
+C:\Users\lucas.smoura12\source\repos\opamundo\opamundo\bin\Debug\net8.0\opamundo.exe
+C:\Users\lucas.smoura12\source\repos\opamundo\opamundo\bin\Debug\net8.0\opamundo.deps.json
+C:\Users\lucas.smoura12\source\repos\opamundo\opamundo\bin\Debug\net8.0\opamundo.runtimeconfig.json
+C:\Users\lucas.smoura12\source\repos\opamundo\opamundo\bin\Debug\net8.0\opamundo.dll
+C:\Users\lucas.smoura12\source\repos\opamundo\opamundo\bin\Debug\net8.0\opamundo.pdb
+C:\Users\lucas.smoura12\source\repos\opamundo\opamundo\obj\Debug\net8.0\opamundo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lucas.smoura12\source\repos\opamundo\opamundo\obj\Debug\net8.0\opamundo.AssemblyInfoInputs.cache
+C:\Users\lucas.smoura12\source\repos\opamundo\opamundo\obj\Debug\net8.0\opamundo.AssemblyInfo.cs
+C:\Users\lucas.smoura12\source\repos\opamundo\opamundo\obj\Debug\net8.0\opamundo.csproj.CoreCompileInputs.cache
+C:\Users\lucas.smoura12\source\repos\opamundo\opamundo\obj\Debug\net8.0\opamundo.dll
+C:\Users\lucas.smoura12\source\repos\opamundo\opamundo\obj\Debug\net8.0\refint\opamundo.dll
+C:\Users\lucas.smoura12\source\repos\opamundo\opamundo\obj\Debug\net8.0\opamundo.pdb
+C:\Users\lucas.smoura12\source\repos\opamundo\opamundo\obj\Debug\net8.0\opamundo.genruntimeconfig.cache
+C:\Users\lucas.smoura12\source\repos\opamundo\opamundo\obj\Debug\net8.0\ref\opamundo.dll
