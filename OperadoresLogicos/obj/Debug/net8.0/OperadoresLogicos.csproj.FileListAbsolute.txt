@@ -1,0 +1,15 @@
+C:\Users\lucas.smoura12\source\repos\OperadoresLogicos\bin\Debug\net8.0\OperadoresLogicos.exe
+C:\Users\lucas.smoura12\source\repos\OperadoresLogicos\bin\Debug\net8.0\OperadoresLogicos.deps.json
+C:\Users\lucas.smoura12\source\repos\OperadoresLogicos\bin\Debug\net8.0\OperadoresLogicos.runtimeconfig.json
+C:\Users\lucas.smoura12\source\repos\OperadoresLogicos\bin\Debug\net8.0\OperadoresLogicos.dll
+C:\Users\lucas.smoura12\source\repos\OperadoresLogicos\bin\Debug\net8.0\OperadoresLogicos.pdb
+C:\Users\lucas.smoura12\source\repos\OperadoresLogicos\obj\Debug\net8.0\OperadoresLogicos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lucas.smoura12\source\repos\OperadoresLogicos\obj\Debug\net8.0\OperadoresLogicos.AssemblyInfoInputs.cache
+C:\Users\lucas.smoura12\source\repos\OperadoresLogicos\obj\Debug\net8.0\OperadoresLogicos.AssemblyInfo.cs
+C:\Users\lucas.smoura12\source\repos\OperadoresLogicos\obj\Debug\net8.0\OperadoresLogicos.csproj.CoreCompileInputs.cache
+C:\Users\lucas.smoura12\source\repos\OperadoresLogicos\obj\Debug\net8.0\OperadoresLogicos.sourcelink.json
+C:\Users\lucas.smoura12\source\repos\OperadoresLogicos\obj\Debug\net8.0\OperadoresLogicos.dll
+C:\Users\lucas.smoura12\source\repos\OperadoresLogicos\obj\Debug\net8.0\refint\OperadoresLogicos.dll
+C:\Users\lucas.smoura12\source\repos\OperadoresLogicos\obj\Debug\net8.0\OperadoresLogicos.pdb
+C:\Users\lucas.smoura12\source\repos\OperadoresLogicos\obj\Debug\net8.0\OperadoresLogicos.genruntimeconfig.cache
+C:\Users\lucas.smoura12\source\repos\OperadoresLogicos\obj\Debug\net8.0\ref\OperadoresLogicos.dll

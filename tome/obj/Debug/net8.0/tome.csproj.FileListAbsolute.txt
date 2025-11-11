@@ -1,0 +1,15 @@
+C:\Users\lucas.smoura12\source\repos\tome\bin\Debug\net8.0\tome.exe
+C:\Users\lucas.smoura12\source\repos\tome\bin\Debug\net8.0\tome.deps.json
+C:\Users\lucas.smoura12\source\repos\tome\bin\Debug\net8.0\tome.runtimeconfig.json
+C:\Users\lucas.smoura12\source\repos\tome\bin\Debug\net8.0\tome.dll
+C:\Users\lucas.smoura12\source\repos\tome\bin\Debug\net8.0\tome.pdb
+C:\Users\lucas.smoura12\source\repos\tome\obj\Debug\net8.0\tome.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lucas.smoura12\source\repos\tome\obj\Debug\net8.0\tome.AssemblyInfoInputs.cache
+C:\Users\lucas.smoura12\source\repos\tome\obj\Debug\net8.0\tome.AssemblyInfo.cs
+C:\Users\lucas.smoura12\source\repos\tome\obj\Debug\net8.0\tome.csproj.CoreCompileInputs.cache
+C:\Users\lucas.smoura12\source\repos\tome\obj\Debug\net8.0\tome.sourcelink.json
+C:\Users\lucas.smoura12\source\repos\tome\obj\Debug\net8.0\tome.dll
+C:\Users\lucas.smoura12\source\repos\tome\obj\Debug\net8.0\refint\tome.dll
+C:\Users\lucas.smoura12\source\repos\tome\obj\Debug\net8.0\tome.pdb
+C:\Users\lucas.smoura12\source\repos\tome\obj\Debug\net8.0\tome.genruntimeconfig.cache
+C:\Users\lucas.smoura12\source\repos\tome\obj\Debug\net8.0\ref\tome.dll
