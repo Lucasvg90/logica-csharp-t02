@@ -1,5 +1,9 @@
 ﻿using static System.Console;
 
+/* Crie um script que declare uma variável para o nome de 
+uma pessoa e exiba uma saudação personalizada, por exemplo: "Olá, 
+João! Bem-vindo ao nosso site!"*/
+
 WriteLine("\n--- Exercicio 01 ---\n");
 
 WriteLine("Qual é o seu nome, dog?");
@@ -12,7 +16,8 @@ WriteLine("Olá, " + nome + "! Bem vindo ao nosso site!");
 
 
 
-
+/*: Crie um script que converta uma temperatura em Celsius 
+para Fahrenheit*/
 
 WriteLine("\n--- Exercicio 02 ---\n");
 
@@ -25,7 +30,9 @@ double fahrenheit = (celsius * (9 / 5)) + 32;
 WriteLine($"A temperatura em Fahrenheit é: {fahrenheit}");
 
 
-
+/*Crie um script que solicite ao usuário seu nome, idade e 
+cidade e depois mostre uma mensagem com essas informações. 
+Exemplo: "Meu nome é João, tenho 25 anos e moro em São Paulo".*/
 
 WriteLine("\n--- Exercicio 03 ---\n");
 
@@ -46,7 +53,9 @@ WriteLine($"\nMeu nome é " + nome3 + "\nTenho " + idade + " anos e moro lá em 
 
 
 
-
+/* Crie um script que calcule o valor de uma parcela de um 
+empréstimo, dado o valor total do empréstimo, a taxa de juros e o 
+número de parcelas*/
 
 WriteLine("\n--- Exercicio 04 ---\n");
 
@@ -65,7 +74,10 @@ double valorParcela = emprestimo * (1 + juros) / parcelas;
 WriteLine($"O valor a ser pago por parcela é:\n {valorParcela}");
 
 
-
+/* Crie um script que converta uma quantia em reais para 
+dólares, com base em uma taxa de câmbio fornecida. Mostre o valor 
+convertido com 2 casas decimais.
+*/
 
 WriteLine("\n--- Exercicio 05 ---\n");
 
@@ -83,6 +95,9 @@ WriteLine($"A sua conversão deu: ${Math.Round(conversao,2)}");
 
 
 
+
+/*  Crie um script que calcule o valor do desconto de um 
+produto, dado o preço original e a porcentagem de desconto. */
 
 WriteLine("\n--- Exercicio 06 ---\n");
 
