@@ -1,0 +1,15 @@
+C:\Users\lucas.smoura12\source\repos\maratonaexercicio2\bin\Debug\net8.0\maratonaexercicio2.exe
+C:\Users\lucas.smoura12\source\repos\maratonaexercicio2\bin\Debug\net8.0\maratonaexercicio2.deps.json
+C:\Users\lucas.smoura12\source\repos\maratonaexercicio2\bin\Debug\net8.0\maratonaexercicio2.runtimeconfig.json
+C:\Users\lucas.smoura12\source\repos\maratonaexercicio2\bin\Debug\net8.0\maratonaexercicio2.dll
+C:\Users\lucas.smoura12\source\repos\maratonaexercicio2\bin\Debug\net8.0\maratonaexercicio2.pdb
+C:\Users\lucas.smoura12\source\repos\maratonaexercicio2\obj\Debug\net8.0\maratonaexercicio2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lucas.smoura12\source\repos\maratonaexercicio2\obj\Debug\net8.0\maratonaexercicio2.AssemblyInfoInputs.cache
+C:\Users\lucas.smoura12\source\repos\maratonaexercicio2\obj\Debug\net8.0\maratonaexercicio2.AssemblyInfo.cs
+C:\Users\lucas.smoura12\source\repos\maratonaexercicio2\obj\Debug\net8.0\maratonaexercicio2.csproj.CoreCompileInputs.cache
+C:\Users\lucas.smoura12\source\repos\maratonaexercicio2\obj\Debug\net8.0\maratonaexercicio2.sourcelink.json
+C:\Users\lucas.smoura12\source\repos\maratonaexercicio2\obj\Debug\net8.0\maratonaexercicio2.dll
+C:\Users\lucas.smoura12\source\repos\maratonaexercicio2\obj\Debug\net8.0\refint\maratonaexercicio2.dll
+C:\Users\lucas.smoura12\source\repos\maratonaexercicio2\obj\Debug\net8.0\maratonaexercicio2.pdb
+C:\Users\lucas.smoura12\source\repos\maratonaexercicio2\obj\Debug\net8.0\maratonaexercicio2.genruntimeconfig.cache
+C:\Users\lucas.smoura12\source\repos\maratonaexercicio2\obj\Debug\net8.0\ref\maratonaexercicio2.dll
