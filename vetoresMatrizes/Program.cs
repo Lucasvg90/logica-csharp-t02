@@ -39,6 +39,44 @@ return -1;
     }
 
 
+int posicaoBinaria = Array.BinarySearch(num, valorProcurado);
+if( posicaoBinaria >=0)
+    {
+    Console.WriteLine($"Pesquisa Binária: Valor {valorProcurado} encontrado na posição {posicaoBinaria}. ");
+    
+}
+
+else
+{
+    WriteLine($"Pesquisa Binária: O valor {valorProcurado} não foi encontrado não, man");
+}
+
+int[,] matrinho = new int[3, 2]
+{
+    {1,2},
+    {3,4},
+    {4,5}
+};
+
+WriteLine("\nExibindo matriz 3x2");
+
+for(int i = 0; i < 3; i++)
+{
+    for(int j = 0; j <2; j++)
+    {
+        WriteLine(matrinho[i, j] + "\t");
+    }
+    WriteLine();
+}
+for(int i = 0; i < 3; i++)
+{
+    for(int j = 0; j <2; j++)
+    {
+        matrinho[i, j] += 10;
+        WriteLine(matrinho[i, j] + "\t");
+    }
+    WriteLine();
+}
 
 
 
