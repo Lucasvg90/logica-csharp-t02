@@ -1,0 +1,15 @@
+C:\Users\lucas.smoura12\source\repos\funcoes\bin\Debug\net8.0\funcoes.exe
+C:\Users\lucas.smoura12\source\repos\funcoes\bin\Debug\net8.0\funcoes.deps.json
+C:\Users\lucas.smoura12\source\repos\funcoes\bin\Debug\net8.0\funcoes.runtimeconfig.json
+C:\Users\lucas.smoura12\source\repos\funcoes\bin\Debug\net8.0\funcoes.dll
+C:\Users\lucas.smoura12\source\repos\funcoes\bin\Debug\net8.0\funcoes.pdb
+C:\Users\lucas.smoura12\source\repos\funcoes\obj\Debug\net8.0\funcoes.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lucas.smoura12\source\repos\funcoes\obj\Debug\net8.0\funcoes.AssemblyInfoInputs.cache
+C:\Users\lucas.smoura12\source\repos\funcoes\obj\Debug\net8.0\funcoes.AssemblyInfo.cs
+C:\Users\lucas.smoura12\source\repos\funcoes\obj\Debug\net8.0\funcoes.csproj.CoreCompileInputs.cache
+C:\Users\lucas.smoura12\source\repos\funcoes\obj\Debug\net8.0\funcoes.sourcelink.json
+C:\Users\lucas.smoura12\source\repos\funcoes\obj\Debug\net8.0\funcoes.dll
+C:\Users\lucas.smoura12\source\repos\funcoes\obj\Debug\net8.0\refint\funcoes.dll
+C:\Users\lucas.smoura12\source\repos\funcoes\obj\Debug\net8.0\funcoes.pdb
+C:\Users\lucas.smoura12\source\repos\funcoes\obj\Debug\net8.0\funcoes.genruntimeconfig.cache
+C:\Users\lucas.smoura12\source\repos\funcoes\obj\Debug\net8.0\ref\funcoes.dll
