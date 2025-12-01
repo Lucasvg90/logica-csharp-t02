@@ -1,9 +1,9 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\lucas.smoura12\\source\\repos\\maratonaexercicios03\\",
+  "WorkspaceRootPath": "C:\\Users\\mathe\\source\\repos\\logica-csharp-t02\\maratonaexercicios03\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{4B34B603-E866-4A19-98B6-43C4CED4D6D2}|maratonaexercicios03.csproj|c:\\users\\lucas.smoura12\\source\\repos\\maratonaexercicios03\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{4B34B603-E866-4A19-98B6-43C4CED4D6D2}|maratonaexercicios03.csproj|c:\\users\\mathe\\source\\repos\\logica-csharp-t02\\maratonaexercicios03\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{4B34B603-E866-4A19-98B6-43C4CED4D6D2}|maratonaexercicios03.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
@@ -20,11 +20,11 @@
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\lucas.smoura12\\source\\repos\\maratonaexercicios03\\Program.cs",
+              "DocumentMoniker": "C:\\Users\\mathe\\source\\repos\\logica-csharp-t02\\maratonaexercicios03\\Program.cs",
               "RelativeDocumentMoniker": "Program.cs",
-              "ToolTip": "C:\\Users\\lucas.smoura12\\source\\repos\\maratonaexercicios03\\Program.cs*",
+              "ToolTip": "C:\\Users\\mathe\\source\\repos\\logica-csharp-t02\\maratonaexercicios03\\Program.cs*",
               "RelativeToolTip": "Program.cs*",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAcAAAAAAAAAA==",
+              "ViewState": "AgIAACcAAAAAAAAAAAAYwDsAAAAIAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-11-27T19:55:03.192Z",
               "EditorCaption": ""
